@@ -20,7 +20,7 @@ I started as an engineer and stayed because the problems got more interesting. T
 | [News Titles Shift](https://filbezerianos.com/portfolio/news-titles-shift/) | An experiment that rewrites headlines for each reader, and shows how |
 | [Agents Duo](https://filbezerianos.com/portfolio/agents-duo/) | Two AI agents debating each other in real time |
 
-More on my [portfolio →](https://filbezerianos.com/portfolio/).
+More on my [portfolio →](https://filbezerianos.com/portfolio/)
 
 ## What I write
 
@@ -30,7 +30,3 @@ More on my [portfolio →](https://filbezerianos.com/portfolio/).
 - [A.I. = Accelerate Inefficiencies](https://filbezerianos.com/posts/2024/ai-challenges-accelerator/)
 
 Read [more of my articles →](https://filbezerianos.com/posts/)
-
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/filbezerianos/)
