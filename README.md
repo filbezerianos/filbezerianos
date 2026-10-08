@@ -1,4 +1,4 @@
-## Hi, I'm Fil"
+## Hi, I'm Fil
 
 **I bring together strategy, technology and teams to build products that matter.**
 
@@ -10,7 +10,7 @@ I started as an engineer and stayed because the problems got more interesting. T
 - **Cloud and AI platforms:** Azure, AWS and GCP at scale, including regulated environments such as pharma, biotech and finance
 - **Leading teams:** building platforms and leading teams across finance, technology, energy and life sciences sectors
 
-## Things I've built
+## Things I have built
 
 | Project | What it does |
 | --- | --- |
