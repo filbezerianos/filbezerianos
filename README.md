@@ -1,6 +1,6 @@
 ## Hi, I'm Fil
 
-**I bring together strategy, technology and teams to build products that matter.**
+> **I bring together strategy, technology and teams to build products that matter.**
 
 I started as an engineer and stayed because the problems got more interesting. These days that increasingly means AI, and how enterprises adopt it without amplifying the problems they already have. I'm a product leader who still builds.
 
@@ -20,7 +20,7 @@ I started as an engineer and stayed because the problems got more interesting. T
 | [News Titles Shift](https://filbezerianos.com/portfolio/news-titles-shift/) | An experiment that rewrites headlines for each reader, and shows how |
 | [Agents Duo](https://filbezerianos.com/portfolio/agents-duo/) | Two AI agents debating each other in real time |
 
-More on my [portfolio](https://filbezerianos.com/portfolio/).
+More on my [portfolio →](https://filbezerianos.com/portfolio/).
 
 ## What I write
 
@@ -28,6 +28,8 @@ More on my [portfolio](https://filbezerianos.com/portfolio/).
 - [Cheap to Start, Expensive to Own](https://filbezerianos.com/posts/2026/cheap-to-start-expensive-to-own/)
 - [AI as a Junior Employee](https://filbezerianos.com/posts/2025/ai-as-a-junior-employee/)
 - [A.I. = Accelerate Inefficiencies](https://filbezerianos.com/posts/2024/ai-challenges-accelerator/)
+
+Read [more of my articles →](https://filbezerianos.com/posts/)
 
 ## Get in touch
 
