@@ -12,15 +12,18 @@ I started as an engineer and stayed because the problems got more interesting. T
 
 ## Things I have built
 
-| Project | What it does |
-| --- | --- |
-| [AI Cloud Migrator](https://filbezerianos.com/portfolio/cloud-migration-strategy-ai-tool/) | Recommends the best cloud migration strategy per application, cutting the assessment phase by 60% |
-| [Property Visual Finder](https://filbezerianos.com/portfolio/ai-powered-property-photo-analyser/) | Fine-tuned vision AI that ranks properties by what is in the photos |
-| [Product Work Focus Tool](https://filbezerianos.com/portfolio/product-work-focus-tool/) | AI-assisted feature prioritisation that keeps the Product Manager in control |
-| [News Titles Shift](https://filbezerianos.com/portfolio/news-titles-shift/) | An experiment that rewrites headlines for each reader, and shows how |
-| [Agents Duo](https://filbezerianos.com/portfolio/agents-duo/) | Two AI agents debating each other in real time |
+Each project has a business case study on my website and a technical deep dive here on GitHub.
 
-More on my [portfolio →](https://filbezerianos.com/portfolio/)
+| Project | What it does | Learn more |
+| --- | --- | --- |
+| **AI Cloud Migrator** | Recommends the best cloud migration strategy per application, cutting the assessment phase by 60% | [Case study](https://filbezerianos.com/portfolio/cloud-migration-strategy-ai-tool/) · [Technical deep dive](https://github.com/filbezerianos/technical-case-studies/blob/main/projects/ai-cloud-migrator.md) |
+| **Property Visual Finder** | Fine-tuned vision AI that ranks properties by what is in the photos | [Case study](https://filbezerianos.com/portfolio/ai-powered-property-photo-analyser/) · [Technical deep dive](https://github.com/filbezerianos/technical-case-studies/blob/main/projects/property-visual-finder.md) |
+| **Relationships Mapping Visualiser** | Turns interview notes into an editable diagram of how teams and tools interact, cutting diagram creation time by 80% | [Case study](https://filbezerianos.com/portfolio/relationships-mapping-and-visualisation-tool/) · [Technical deep dive](https://github.com/filbezerianos/technical-case-studies/blob/main/projects/relationships-mapping-visualiser.md) |
+| **Product Work Focus Tool** | AI-assisted feature prioritisation that keeps the Product Manager in control | [Case study](https://filbezerianos.com/portfolio/product-work-focus-tool/) · [Technical deep dive](https://github.com/filbezerianos/technical-case-studies/blob/main/projects/product-work-focus-tool.md) |
+| **News Titles Shift** | An experiment that rewrites headlines for each reader, and shows how | [Case study](https://filbezerianos.com/portfolio/news-titles-shift/) · [Technical deep dive](https://github.com/filbezerianos/technical-case-studies/blob/main/projects/news-titles-shift.md) |
+| **Agents Duo** | Two AI agents debating each other in real time | [Case study](https://filbezerianos.com/portfolio/agents-duo/) · [Technical deep dive](https://github.com/filbezerianos/technical-case-studies/blob/main/projects/agents-duo.md) |
+
+More on my [portfolio →](https://filbezerianos.com/portfolio/) · All the [technical deep dives →](https://github.com/filbezerianos/technical-case-studies)
 
 ## What I write
 
