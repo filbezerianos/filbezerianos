@@ -13,7 +13,7 @@ I'm a Product and Technology Director with 15+ years across finance, commodities
 
 ## Things I have built
 
-I build tools that solve problems I care about. Some come from patterns I have seen in enterprise product work, others from curiosity about what is possible with emerging technology. Each has a business case study on my website and a technical deep dive here on GitHub.
+I build tools that solve problems I care about. Some come from patterns I have seen in enterprise product work, others from curiosity about what is possible with emerging technology. Most have a business case study on my website and a technical deep dive here on GitHub.
 
 | Project | What it does | Learn more |
 | --- | --- | --- |
@@ -23,6 +23,7 @@ I build tools that solve problems I care about. Some come from patterns I have s
 | **Property Visual Finder** | Ranks property listings by what is in the photos. Integrated into a UK agency's workflow, with 17% less time on mismatched properties | [Case study](https://filbezerianos.com/portfolio/ai-powered-property-photo-analyser/) · [Technical deep dive](https://github.com/filbezerianos/portfolio-deep-dives/blob/main/projects/property-visual-finder-technical-deep-dive.md) |
 | **News Titles Shift** | An experiment that rewrites headlines for each reader, then shows exactly how | [Case study](https://filbezerianos.com/portfolio/news-titles-shift/) · [Technical deep dive](https://github.com/filbezerianos/portfolio-deep-dives/blob/main/projects/news-titles-shift-technical-deep-dive.md) |
 | **Agents Duo** | An experiment in what two language models do when left to talk to each other | [Case study](https://filbezerianos.com/portfolio/agents-duo/) · [Technical deep dive](https://github.com/filbezerianos/portfolio-deep-dives/blob/main/projects/agents-duo-technical-deep-dive.md) |
+| **AI Court Simulator** | A courtroom game where you argue a fictional case against an AI opponent, in front of an AI judge and a jury of twelve. It runs on a local model, so there are no API keys or costs | [Case study](https://filbezerianos.com/portfolio/ai-court-simulator/) · [Technical deep dive](https://github.com/filbezerianos/portfolio-deep-dives/blob/main/projects/ai-court-simulator-deep-dive.md) · [Code on GitHub](https://github.com/filbezerianos/ai-court-simulator) |
 
 More on my [portfolio →](https://filbezerianos.com/portfolio/) · All the [technical deep dives →](https://github.com/filbezerianos/portfolio-deep-dives/tree/main)
 
